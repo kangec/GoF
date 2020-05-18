@@ -1,0 +1,11 @@
+package io;
+
+public class HTMLHandler implements Handler {
+    @Override
+    public boolean filter(Msg msg) {
+        String replace = msg.getMsg()
+                .replace("script", "脚本");
+        msg.setMsg(replace);
+        return true;
+    }
+}
