@@ -17,28 +17,28 @@
 
 ## ✔ Install
 
-1. 克隆这个仓库
+    1. 克隆这个仓库
 
-   ```sh
-   git clone https://github.com/Ardient/GoF.git
-   ```
+        ```sh
+        git clone https://github.com/Ardient/GoF.git
+        ```
 
-2. IDEA 2020.1、JDK8 or New+  
+    2. IDEA 2020.1、JDK8 or New+  
 
 ## 🍽 Usage
 
-```sh
-导入项目，找到客户端类，启动编译并运行。
-```
+    ```sh
+    导入项目，找到客户端类，启动编译并运行。
+    ```
 
 ## 👨 Author
 
-👤 **刘康富**
+    👤 **刘康富**
 
-* Website: www.ardien.xyz
-* Github: [@Ardient](https://github.com/Ardient)
+    * Website: www.ardien.xyz
+    * Github: [@Ardient](https://github.com/Ardient)
 
 ## ❤ Show your support
 
-Give a ⭐️ if this project helped you!
+    Give a ⭐️ if this project helped you!
 
