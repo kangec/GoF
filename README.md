@@ -15,7 +15,7 @@
 
 <div align="center"><img width="200" height="200" src="https://github.com/Ardient/GoF/blob/master/resource/factory-method.png"/></div>
 
-## Install
+### 🐳 Install
 
 1. 克隆这个仓库
 
@@ -25,9 +25,9 @@
 
 2. 使用版本大于 IntelliJ IDEA Ultimate 2019.3、JDK8 的开发工具
 
-## Usage
+### 🍽 Usage
 
-导入项目，找到客户端类，启动编译并运行。
+导入项目，找到客户端类，启动编译并运行
 
 ## Author
 
@@ -36,7 +36,7 @@
 * Website: www.ardien.xyz
 * Github: [@Ardient](https://github.com/Ardient)
 
-## Show your support
+## 🧡 Show your support
 
 Give a ⭐️ if this project helped you!
 
