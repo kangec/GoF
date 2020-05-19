@@ -10,7 +10,11 @@
 
 ### 🏠 [Homepage](www.ardien.xyz)
 
-### ✨ [Demo](www.ardien.xyz:4212/index.html)
+### ✨ [GUI Demo](www.ardien.xyz:4212/index.html)
+
+<img src="M:\Design Pattern\resource\factory-method.png" style="zoom:50%;" />
+
+
 
 ## Install
 
