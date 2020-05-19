@@ -8,7 +8,7 @@
 
 > 桂林理工大学软件工程《设计模式》课程，使用Java语言描述，带有GUI界面。
 
-### 🏠 [Homepage](www.ardien.xyz)
+### 🏠 [Homepage](https://www.notion.so/1b3a88d01bd340a3a875e1aec5015197)
 
 ### ✨ [GUI Demo](www.ardien.xyz:4212/index.html)
 
