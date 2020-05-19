@@ -13,7 +13,7 @@
 ### ✨ [GUI Demo](www.ardien.xyz:4212/index.html)
 
 
-<div align="center"><img width="200" height="200" src="https://github.com/Ardient/GoF/blob/master/resource/factory-method.png"/></div>
+<div align="center"><img width="500" height="500" src="https://github.com/Ardient/GoF/blob/master/resource/factory-method.png"/></div>
 
 ### 🐳 Install
 
