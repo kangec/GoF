@@ -12,7 +12,7 @@
 
 ### ✨ [GUI Demo](www.ardien.xyz:4212/index.html)
 
-<img src="M:\Design Pattern\resource\factory-method.png" style="zoom:50%;" />
+<img src="\resource\factory-method.png" />
 
 
 
