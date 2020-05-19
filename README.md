@@ -12,9 +12,8 @@
 
 ### ✨ [GUI Demo](www.ardien.xyz:4212/index.html)
 
-<img src="https://github.com/Ardient/GoF/blob/master/resource/factory-method.png" style="zoom:50%; />
 
-
+<div align="center"><img width="200" height="200" src="https://github.com/Ardient/GoF/blob/master/resource/factory-method.png"/></div>
 
 ## Install
 
