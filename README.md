@@ -8,14 +8,14 @@
 
 > 桂林理工大学软件工程《设计模式》课程，使用Java语言描述，带有GUI界面。
 
-### 🏠 [Homepage](www.ardien.xyz)
+### 🏠 [Homepage](https://www.notion.so/1b3a88d01bd340a3a875e1aec5015197)
 
 ### ✨ [GUI Demo](www.ardien.xyz:4212/index.html)
 
 
-<div align="center"><img width="200" height="200" src="https://github.com/Ardient/GoF/blob/master/resource/factory-method.png"/></div>
+<div align="center"><img width="500" height="500" src="https://github.com/Ardient/GoF/blob/master/resource/factory-method.png"/></div>
 
-## Install
+### 🐳 Install
 
 1. 克隆这个仓库
 
@@ -25,9 +25,9 @@
 
 2. 使用版本大于 IntelliJ IDEA Ultimate 2019.3、JDK8 的开发工具
 
-## Usage
+### 🍽 Usage
 
-导入项目，找到客户端类，启动编译并运行。
+导入项目，找到客户端类，启动编译并运行
 
 ## Author
 
@@ -36,7 +36,7 @@
 * Website: www.ardien.xyz
 * Github: [@Ardient](https://github.com/Ardient)
 
-## Show your support
+## 🧡 Show your support
 
 Give a ⭐️ if this project helped you!
 
