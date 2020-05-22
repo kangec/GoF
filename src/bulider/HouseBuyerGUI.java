@@ -10,7 +10,7 @@ import java.awt.event.KeyEvent;
 public class HouseBuyerGUI extends JPanel {
     public static final String SUBMIT = "Submit";
     public static final String EXIT = "Exit";
-    //public static final String ECONOMY_HOUSE = "Economy House";
+    public static final String ECONOMY_HOUSE = "Economy House";
     public static final String NORMAL_HOUSE = "Normal House";
     public static final String LUXURY_HOUSE = "Luxury House";
     public static final String BLANK = "Choose House Type";
@@ -82,6 +82,7 @@ public class HouseBuyerGUI extends JPanel {
 
         cmbHouseType.addItem(NORMAL_HOUSE);
         cmbHouseType.addItem(LUXURY_HOUSE);
+        cmbHouseType.addItem(ECONOMY_HOUSE);
 
         JLabel lblHouseType = new JLabel("House Type:");
         JLabel lblHouseOptions = new JLabel("Options:");
@@ -202,18 +203,5 @@ public class HouseBuyerGUI extends JPanel {
                 }
             }
         }
-    }
-}
-
-class BuilderFactory {
-    public HouseBuilder getUIBuilder(String str) {
-        HouseBuilder builder = null;
-
-        if (str.equals(HouseBuyerGUI.NORMAL_HOUSE)) {
-            builder = new NormHouseBuilder();
-        } else if (str.equals(HouseBuyerGUI.LUXURY_HOUSE)) {
-            builder = new LuxHouseBuilder();
-        }
-        return builder;
     }
 }
