@@ -9,8 +9,8 @@
 > 桂林理工大学软件工程《设计模式》课程，使用Java语言描述，带有GUI界面。
 
 ### 🏠 [Homepage](https://www.notion.so/1b3a88d01bd340a3a875e1aec5015197)
-<center>
 
+<div align="center">
 |    单例模式     | [源代码](https://github.com/Ardient/GoF/tree/master/src/Singleton) | [笔记](https://www.notion.so/Singleton-5c829b02a9f149e2aae589905c360dc4) |  ✔   |
 | :-------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--: |
 |  **原型模式**   | [**源代码**](https://github.com/Ardient/GoF/tree/master/src/Prototype) | [**笔记**](https://www.notion.so/Prototype-516c2d72ece14cdab345c39cd5345303) |  ✔   |
@@ -25,8 +25,7 @@
 | **备忘录模式**  |                          **源代码**                          | [**笔记**](https://www.notion.so/Memento-ffc05c6000184330bd5628e8e172da69) | TODO |
 | **适配器模式**  |                          **源代码**                          | [**笔记**](https://www.notion.so/Adapter-3d698a1a40e24028afaa75549f77ade6) | TODO |
 
-</center>
-
+</div>
 ### ✨ [GUI Demo](www.ardien.xyz:4212/index.html)
 
 
