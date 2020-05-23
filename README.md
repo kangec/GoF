@@ -24,8 +24,6 @@
 | **备忘录模式**  |                          **源代码**                          | [**笔记**](https://www.notion.so/Memento-ffc05c6000184330bd5628e8e172da69) | TODO |
 | **适配器模式**  |                          **源代码**                          | [**笔记**](https://www.notion.so/Adapter-3d698a1a40e24028afaa75549f77ade6) | TODO |
 
-
-
 ### ✨ [GUI Demo](www.ardien.xyz:4212/index.html)
 
 
