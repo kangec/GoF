@@ -22,7 +22,7 @@
 |  **策略模式**   |                          **源代码**                          | [**笔记**](https://www.notion.so/Strategy-bcc78312ec5c419e8880e484078afde1) | TODO |
 | **责任链模式**  |                          **源代码**                          | [**笔记**](https://www.notion.so/Chain-of-Responsibility-5c9a3e3ffe884ed5975676b023f6cab6) | TODO |
 | **备忘录模式**  |                          **源代码**                          | [**笔记**](https://www.notion.so/Memento-ffc05c6000184330bd5628e8e172da69) | TODO |
-| **适配器模式**  |                          **源代码**                          | [**笔记**](https://www.notion.so/Adapter-3d698a1a40e24028afaa75549f77ade6) | TODO |
+| **适配器模式**  |                          [**源代码**](https://github.com/Ardient/GoF/tree/master/src/adapter)                          | [**笔记**](https://www.notion.so/Adapter-3d698a1a40e24028afaa75549f77ade6) | TODO |
 
 ### ✨ [GUI Demo](www.ardien.xyz:4212/index.html)
 
