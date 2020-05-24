@@ -119,7 +119,7 @@ class EconHouseBuilder extends HouseBuilder {
     //This method returns user chosen requests
     //as a string to be displayed on screen
     public String getUserRequest() {
-        String usrRequest = null;
+        String usrRequest;
         if ((area == null) || (bedroom == null) || (bathroom == null) || (garage == null)) {
             usrRequest = "Incomplete items";
         } else {
