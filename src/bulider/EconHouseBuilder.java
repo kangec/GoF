@@ -46,8 +46,6 @@ class EconHouseBuilder extends HouseBuilder {
         ButtonGroup bedroomGroup = new ButtonGroup();
         ButtonGroup bathroomGroup = new ButtonGroup();
         ButtonGroup garageGroup = new ButtonGroup();
-        ButtonGroup gardenGroup = new ButtonGroup();
-        ButtonGroup swPoolGroup = new ButtonGroup();
         areaGroup.add(areaBtn1);
         areaGroup.add(areaBtn2);
         bedroomGroup.add(bedroomBtn1);
