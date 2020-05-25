@@ -4,15 +4,12 @@ import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
-import java.lang.reflect.Constructor;
 
 public class Client {
     public static void main(String[] args) throws Exception{
         SingletonDemo_6 s1 = SingletonDemo_6.getInstance();
         SingletonDemo_6 s2 = SingletonDemo_6.getInstance();
         System.out.println(s1);
-        System.out.println(s2);
-
         /*
         //通过反射破解单例模式
         Class<SingletonDemo_6> class1 = (Class<SingletonDemo_6>) Class.forName("Singleton.SingletonDemo_6");
@@ -32,7 +29,7 @@ public class Client {
         fileOutputStream.close();
         ObjectInputStream ois = new ObjectInputStream(new FileInputStream("d:/b.dat"));
         SingletonDemo_6 s5 = (SingletonDemo_6) ois.readObject();
-        System.out.println(s5);
+        System.out.println(s5 == s1);
 
     }
 }
