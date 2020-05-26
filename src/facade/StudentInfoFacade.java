@@ -7,8 +7,8 @@ public class StudentInfoFacade {
     private final String firstName;
     private final String lastName;
     private final String studentNum;
-    private final String AWARDS = "StudentAward.txt";
-    private final String RECORDS = "StudentAcademicRecord.txt";
+    private final String AWARDS = "resource/StudentAward.txt";
+    private final String RECORDS = "resource/StudentAcademicRecord.txt";
     private StudentBasicInfo studentInfo;
     private AcademicRecord academicRecord;
     private Award award;

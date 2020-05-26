@@ -10,7 +10,7 @@ public class Tuition {
     private final String firstName;
     private final String lastName;
     private final String studNum;
-    private final String STUDENT_TUITION_FILE = "Tuition.txt";
+    private final String STUDENT_TUITION_FILE = "resource/Tuition.txt";
     private ArrayList<String> studentTuition;
 
     //constructor
