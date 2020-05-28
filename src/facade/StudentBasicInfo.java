@@ -19,7 +19,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 
 public class StudentBasicInfo {
-    final static String STUDENT_BASIC_INFO = "StudentBasicInfo.txt";
+    final static String STUDENT_BASIC_INFO = "resource/StudentBasicInfo.txt";
     private final String name;
     private final String birthDate;
     private final String serialNum;
