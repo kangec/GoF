@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<config>
+    <className>experiment.test_5.Apple</className>
+    <className>experiment.test_5.Banana</className>
+    <className>experiment.test_5.Pear</className>
+    <className>experiment.test_5.Banana</className>
+    <className>experiment.test_5.Apple</className>
+</config>
