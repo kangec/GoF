@@ -23,7 +23,7 @@ public class HeapSort implements SortAlgorithm {
         return;
     }
 
-    public int[] sort(int intArray], Context ct) {
+    public int[] sort(int[] intArray, Context ct) {
         ct.startExecution();
         for (int i = intArray.length; i > 1; i--) {
             buildBinaryHeapTree(intArray, i - 1);
