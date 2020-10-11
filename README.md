@@ -45,7 +45,7 @@
 
 ## Author
 
-👤 **刘康富**
+👤 Kangec
 
 * Website: www.ardien.xyz
 * Github: [@Ardient](https://github.com/Ardient)
